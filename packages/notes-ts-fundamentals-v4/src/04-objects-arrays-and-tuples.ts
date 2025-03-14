@@ -5,7 +5,7 @@ let car: {
   model: string
   year: number
 }
-
+// change 
 /*
 //? A function that prints info about a car to stdout
 // function printCar(car: {
